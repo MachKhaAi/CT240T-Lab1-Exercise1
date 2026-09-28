@@ -1,0 +1,24 @@
+
+# Java
+*.class
+*.jar
+*.war
+
+# Build
+bin/
+out/
+target/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Operating System
+.DS_Store
+Thumbs.db
